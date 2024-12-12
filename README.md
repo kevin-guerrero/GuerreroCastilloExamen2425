@@ -1,0 +1,1 @@
+Examen Practic - Configuracio inicial
