@@ -56,7 +56,7 @@ Aquest projecte és un exemple bàsic d'una pàgina web per a l'examen.
   ```bash
   git add *.html *.css
   ```
-- - ![Captura de la versión de Git](./Captures%20de%20pantalla/img4.png)
+- - ![Captura de la versión de Git](./Captures%20de%20pantalla/img7.png)
 
 ### **3.2. Verificar estado del repositorio**
 - Comando utilizado:
