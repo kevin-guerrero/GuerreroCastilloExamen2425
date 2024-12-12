@@ -22,7 +22,7 @@ Aquest projecte és un exemple bàsic d'una pàgina web per a l'examen.
   ```bash
   git config --list
   ```
-- Captura de pantalla: (inserta imagen aquí)
+- - ![Captura de la versión de Git](./Captures%20de%20pantalla/img2.png)
 
 ### **1.3. Inicializar repositorio**
 - Comandos ejecutados:
@@ -34,7 +34,7 @@ Aquest projecte és un exemple bàsic d'una pàgina web per a l'examen.
   git add README.md
   git commit -m "1 - Git init"
   ```
-- Captura de pantalla: (inserta imagen aquí)
+- - ![Captura de la versión de Git](./Captures%20de%20pantalla/img3.png)
 
 ---
 
@@ -44,44 +44,6 @@ Aquest projecte és un exemple bàsic d'una pàgina web per a l'examen.
   ```bash
   touch index.html testunitari.html style.css main.js
   ```
-- Contenido básico agregado a los archivos:
-  - **index.html**:
-    ```html
-    <!DOCTYPE html>
-    <html>
-    <head>
-        <title>Página Principal</title>
-        <link rel="stylesheet" href="style.css">
-    </head>
-    <body>
-        <h1>Bienvenido</h1>
-        <script src="main.js"></script>
-    </body>
-    </html>
-    ```
-  - **testunitari.html**:
-    ```html
-    <!DOCTYPE html>
-    <html>
-    <head>
-        <title>Test Unitari</title>
-    </head>
-    <body>
-        <h1>Prova de test unitari</h1>
-    </body>
-    </html>
-    ```
-  - **style.css**:
-    ```css
-    body {
-        font-family: Arial, sans-serif;
-    }
-    ```
-  - **main.js**:
-    ```javascript
-    console.log("Bienvenido al proyecto web.");
-    ```
-
 ---
 
 ## **3. Gestión con Git**
@@ -91,14 +53,14 @@ Aquest projecte és un exemple bàsic d'una pàgina web per a l'examen.
   ```bash
   git add *.html *.css
   ```
-- Captura de pantalla: (inserta imagen aquí)
+- - ![Captura de la versión de Git](./Captures%20de%20pantalla/img4.png)
 
 ### **3.2. Verificar estado del repositorio**
 - Comando utilizado:
   ```bash
   git status
   ```
-- Captura de pantalla: (inserta imagen aquí)
+- ![Captura de la versión de Git](./Captures%20de%20pantalla/img5.png)
 
 ### **3.3. Eliminar archivo del staging**
 - Comando utilizado:
@@ -117,7 +79,7 @@ Aquest projecte és un exemple bàsic d'una pàgina web per a l'examen.
   ```bash
   git log --oneline
   ```
-- Captura de pantalla: (inserta imagen aquí)
+- - ![Captura de la versión de Git](./Captures%20de%20pantalla/img6.png)
 
 ---
 
@@ -159,14 +121,14 @@ Aquest projecte és un exemple bàsic d'una pàgina web per a l'examen.
   ```bash
   git remote add origin https://github.com/kevin-guerrero/GuerreroCastilloxamen2425.git
   ```
-- Captura de pantalla: (inserta imagen aquí)
+- ![Captura de la versión de Git](./Captures%20de%20pantalla/img7.png)
 
 ### **5.2. Subir cambios al remoto**
 - Comando utilizado:
   ```bash
   git push -u origin main
   ```
-- Captura de pantalla: (inserta imagen aquí)
+- ![Captura de la versión de Git](./Captures%20de%20pantalla/img8.png)
 
 ### **5.3. Publicar en Vercel**
 - Enlace al proyecto publicado:
