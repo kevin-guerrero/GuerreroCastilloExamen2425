@@ -34,8 +34,8 @@ Aquest projecte és un exemple bàsic d'una pàgina web per a l'examen.
   git add README.md
   git commit -m "1 - Git init"
   ```
-- - ![Captura de la versión de Git](./Captures%20de%20pantalla/img3.png)
-
+- ![Captura de la versión de Git](./Captures%20de%20pantalla/img3.png)
+- ![Captura de la versión de Git](./Captures%20de%20pantalla/img4.png)
 ---
 
 ## **2. Creación del proyecto web**
