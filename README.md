@@ -44,6 +44,7 @@ Aquest projecte és un exemple bàsic d'una pàgina web per a l'examen.
   ```bash
   touch index.html testunitari.html style.css main.js
   ```
+  - ![Captura de la versión de Git](./Captures%20de%20pantalla/img5.png)
 ---
 
 ## **3. Gestión con Git**
