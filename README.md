@@ -47,6 +47,7 @@ Aquest projecte és un exemple bàsic d'una pàgina web per a l'examen.
 - ![Captura de la versión de Git](./Captures%20de%20pantalla/img4.png)
 - ![Captura de la versión de Git](./Captures%20de%20pantalla/img5.png)
 - ![Captura de la versión de Git](./Captures%20de%20pantalla/img6.png)
+- ![Captura de la versión de Git](./Captures%20de%20pantalla/img7.png)
 ---
 
 ## **3. Gestión con Git**
